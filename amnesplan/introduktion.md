@@ -19,3 +19,5 @@ Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla
 5.	följa, föra och bedöma matematiska resonemang.
 6.	kommunicera matematiska tankegångar muntligt, skriftligt och i handling.
 7.	relatera matematiken till dess betydelse och användning inom andra ämnen, i ett yrkesmässigt, samhälleligt och historiskt sammanhang.
+
+En extra rad i slutet.
