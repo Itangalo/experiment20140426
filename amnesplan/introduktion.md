@@ -7,7 +7,9 @@ Matematiken har en flertusenårig historia med bidrag från många kulturer. Den
 ## Ämnets syfte
 
 Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar förmåga att arbeta matematiskt. Det innefattar att utveckla förståelse av matematikens begrepp och metoder samt att utveckla olika strategier för att kunna lösa matematiska problem och använda matematik i samhälls- och yrkesrelaterade situationer. I undervisningen ska eleverna ges möjlighet att utmana, fördjupa och bredda sin kreativitet och sitt matematikkunnande. Vidare ska den bidra till att eleverna utvecklar förmåga att sätta in matematiken i olika sammanhang och se dess betydelse för individ och samhälle.
+
 Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del. När så är lämpligt ska undervisningen ske i relevant praxisnära miljö. Undervisningen ska ge eleverna möjlighet att kommunicera med olika uttrycksformer. Vidare ska den ge eleverna utmaningar samt erfarenhet av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang samt ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digital teknik, digitala medier och även andra verktyg som kan förekomma inom karaktärsämnena.
+
 Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla förmåga att:
 
 1.	använda och beskriva innebörden av matematiska begrepp samt samband mellan begreppen.
