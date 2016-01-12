@@ -10,6 +10,8 @@ Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar förmåg
 
 Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del. När så är lämpligt ska undervisningen ske i relevant praxisnära miljö. Undervisningen ska ge eleverna möjlighet att kommunicera med olika uttrycksformer. Vidare ska den ge eleverna utmaningar samt erfarenhet av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang samt ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digital teknik, digitala medier och även andra verktyg som kan förekomma inom karaktärsämnena.
 
+![En alternativ text][bild1]
+
 Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla förmåga att:
 
 1.	använda och beskriva innebörden av matematiska begrepp samt samband mellan begreppen.
@@ -19,3 +21,5 @@ Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla
 5.	följa, föra och bedöma matematiska resonemang.
 6.	kommunicera matematiska tankegångar muntligt, skriftligt och i handling.
 7.	relatera matematiken till dess betydelse och användning inom andra ämnen, i ett yrkesmässigt, samhälleligt och historiskt sammanhang.
+
+[bild1]: http://www.harbott.com/wp-content/uploads/2012/05/Internet-Timeline.jpg "Internets historia, kortfattat."
