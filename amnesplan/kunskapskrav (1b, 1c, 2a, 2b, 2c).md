@@ -2,10 +2,13 @@
 
 ## Betyget E
 
-Eleven kan översiktligt beskriva innebörden av centrala begrepp med hjälp av några representationer samt översiktligt beskriva sambanden mellan begreppen. Dessutom växlar eleven med viss säkerhet mellan olika representationer. Eleven kan med viss säkerhet använda begrepp och samband mellan begrepp för att lösa matematiska problem och problemsituationer i karaktärsämnena i bekanta situationer. I arbetet hanterar eleven några enkla procedurer och löser uppgifter av standardkaraktär med viss säkerhet, både utan och med digitala verktyg.
-Eleven kan formulera, analysera och lösa matematiska problem av enkel karaktär. Dessa problem inkluderar ett fåtal begrepp och kräver enkla tolkningar. I arbetet gör eleven om realistiska problemsituationer till matematiska formuleringar genom att tillämpa givna matematiska modeller. Eleven kan med enkla omdömen utvärdera resultatets rimlighet samt valda modeller, strategier och metoder.
-Eleven kan föra enkla matematiska resonemang och värdera med enkla omdömen egna och andras resonemang samt skilja mellan gissningar och välgrundade påståenden. Dessutom uttrycker sig eleven med viss säkerhet i tal, skrift och handling med inslag av matematiska symboler och andra representationer.
-Genom att ge exempel relaterar eleven något i kursens innehåll till dess betydelse inom andra ämnen, yrkesliv, samhällsliv och matematikens kulturhistoria. Dessutom kan eleven föra enkla resonemang om exemplens relevans.
+Eleven kan **översiktligt** beskriva innebörden av centrala begrepp med hjälp av **några** representationer samt **översiktligt** beskriva sambanden mellan begreppen. Dessutom växlar eleven **med viss säkerhet** mellan olika representationer. Eleven kan **med viss säkerhet** använda begrepp och samband mellan begrepp för att lösa matematiska problem och problemsituationer i karaktärsämnena **i bekanta situationer**. I arbetet hanterar eleven **några enkla** procedurer och löser uppgifter av standardkaraktär **med viss säkerhet**, både utan och med digitala verktyg.
+
+Eleven kan formulera, analysera och lösa matematiska problem **av enkel karaktär**. Dessa problem inkluderar **ett fåtal** begrepp och kräver **enkla** tolkningar. I arbetet gör eleven om realistiska problemsituationer till matematiska formuleringar genom att tillämpa **givna** matematiska modeller. Eleven kan med **enkla** omdömen utvärdera resultatets rimlighet samt valda modeller, strategier och metoder.
+
+Eleven kan föra **enkla** matematiska resonemang och värdera med **enkla** omdömen egna och andras resonemang samt skilja mellan gissningar och välgrundade påståenden. Dessutom uttrycker sig eleven **med viss säkerhet** i tal, skrift och handling **med inslag av** matematiska symboler och andra representationer.
+
+Genom att ge exempel relaterar eleven något i **kursens innehåll** till dess betydelse inom andra ämnen, yrkesliv, samhällsliv och matematikens kulturhistoria. Dessutom kan eleven föra **enkla** resonemang om exemplens relevans.
 
 ## Betyget C
 
