@@ -25,3 +25,5 @@
 *	Strategier för matematisk problemlösning inklusive användning av digitala medier och verktyg.
 *	Matematiska problem av betydelse för samhällsliv och tillämpningar i andra ämnen.
 *	Matematiska problem med anknytning till matematikens kulturhistoria.
+
+* Mitt eget förslag
