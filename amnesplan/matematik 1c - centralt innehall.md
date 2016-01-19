@@ -2,6 +2,8 @@
 
 ## Taluppfattning, aritmetik och algebra
 
+MARCELLO TESTAR!
+
 *	Egenskaper hos mängden av heltal, olika talbaser samt begreppen primtal och delbarhet.
 *	Metoder för beräkningar inom vardagslivet och karaktärsämnena med reella tal skrivna på olika former, inklusive potenser med reella exponenter samt strategier för användning av digitala verktyg.
 *	Generalisering av aritmetikens räknelagar till att hantera algebraiska uttryck.
