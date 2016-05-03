@@ -18,7 +18,8 @@
 ## Samband och förändring
 
 *	Egenskaper hos andragradsfunktioner.
-*	Konstruktion av grafer till funktioner samt bestämning av funktionsvärde och nollställe, med och utan digitala verktyg.
+*	Konstruktion av grafer (och annat) till funktioner samt bestämning av funktionsvärde och nollställe, med och utan digitala verktyg.
+* Bla bla bla.
 
 ## Sannolikhet och statistik
 
